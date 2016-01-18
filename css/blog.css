@@ -1,0 +1,14 @@
+.artigos{
+	padding: 30px;
+    border: 1px solid #ccc;
+    margin-bottom: 20px;
+}
+
+.leia-mais {
+    padding: 12px;
+    margin: 8px;
+    display: block;
+    font-size: 24px;
+    text-align: center;
+    background-color: #E6E9EA;
+}
